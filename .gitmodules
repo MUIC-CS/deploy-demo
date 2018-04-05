@@ -1,0 +1,6 @@
+[submodule "hello-demo"]
+	path = hello-demo
+	url = git@bitbucket.org:Teamata/hello-demo.git
+[submodule "hello-frontend"]
+	path = hello-frontend
+	url = git@github.com:piti118/hello-frontend.git
